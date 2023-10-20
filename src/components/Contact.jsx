@@ -1,4 +1,5 @@
 import React from 'react'
+import {AiOutlineSend} from 'react-icons/ai'
 
 const Contact = () => {
   return (
@@ -14,7 +15,7 @@ const Contact = () => {
                     <input type="text" name="email" placeholder='Enter your email:' className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none mb-4'/>
                     <textarea placeholder='Enter your message:' name="message" rows="10" className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'>
                     </textarea>
-                    <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-100 duration-300'>Contact Me</button>
+                    <button className='text-white bg-gradient-to-r from-purple-500 hover:scale-105 duration-300 px-6 py-3 my-8 mx-auto flex items-center rounded-md'>Contact Me <AiOutlineSend className='ml-2'/></button>
                 </form>
             </div>
         </div>

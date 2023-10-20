@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import {FaTimes, FaBars} from 'react-icons/fa'
 import { Link } from 'react-scroll';
+import {GiTeleport} from "react-icons/gi"
 
 const Navbar = () => {
   const [menu, setMenu] = useState(false);
@@ -31,7 +32,7 @@ const Navbar = () => {
   return (
     <div className='flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed z-50'>
       <div>
-        <h1 className='text-5xl ml-2'>Sunny Kumar</h1>
+        <GiTeleport size={60} className='ml-5 my-auto'/>
       </div>
       <ul className='hidden md:flex'> 
 

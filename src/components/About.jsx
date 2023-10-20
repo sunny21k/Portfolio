@@ -8,10 +8,10 @@ const About = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus temporibus sit atque quasi ea, quos consectetur nam impedit optio doloribus doloremque, nobis ut quia fugit. Quae omnis laudantium praesentium dicta exercitationem aperiam sint non aliquam facilis corporis, sequi veniam adipisci tenetur, quam odio accusantium beatae, maiores quasi aut. Dicta, placeat?
+                Hello! My name is Sunny Kumar, a highly motivated Computer Science major at Adelphi University. Throughout my academic career, I have dedicated myself to developing a passion and strong foundation for software development and I have dedicated myself fully to developing a passion and strong foundation for software development. I have taken a rigorous course load focused on programming, algorithms, data structures, and software design. 
             </p>
             <br />
-            <p className='text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore ratione fugit quis minus, illum amet quaerat dignissimos, ducimus inventore cumque eaque adipisci ullam, ab ut necessitatibus? Explicabo aut voluptate officiis repellendus! Illo, harum. Minus suscipit quasi necessitatibus non, odio recusandae, illum amet dolores eum distinctio ea sint alias sequi harum!</p>
+            <p className='text-xl'>I find great satisfaction in solving complex coding problems and creating efficient, user-friendly applications. As a quick learner with strong analytical skills, I am excited to apply my knowledge to real-world software projects. My goal is to continuously learn and advance my software development skills. I am eager to apply my skills and knowledge to make meaningful contributions to the field of development.</p>
         </div>
     </div>
   )
